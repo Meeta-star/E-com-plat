@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Vinayak Arora",
+  "author": "Meeta",
   "license": "ISC",
   "description": "",
   "dependencies": {

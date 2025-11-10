@@ -1,6 +1,6 @@
-# 🛍️ Mavericks - Modern E-commerce Platform
+# 🛍️ E-com-plat - Modern E-commerce Platform
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://mavericks-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://e-com-plat-app.vercel.app)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A full-featured e-commerce platform built with modern web technologies, offering a seamless shopping experience.
@@ -55,8 +55,8 @@ A full-featured e-commerce platform built with modern web technologies, offering
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vinayak746/Mavericks.git
-   cd Mavericks
+   git clone https://github.com/meeta746/E-com-plat.git
+   cd E-com-plat
    ```
 
 2. **Install dependencies**
@@ -93,7 +93,7 @@ A full-featured e-commerce platform built with modern web technologies, offering
 ## 📂 Project Structure
 
 ```
-Mavericks/
+E-com-plat/
 ├── admin/              # Admin dashboard frontend
 ├── backend/            # Backend server
 │   ├── config/         # Configuration files
@@ -129,4 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Author: [Vinayak](https://github.com/vinayak746/)
+Author: [Meeta](https://github.com/meeta746/)

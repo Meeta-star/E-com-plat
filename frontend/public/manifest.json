@@ -1,6 +1,6 @@
 {
-"name": "Mavericks",
-"short_name": "Mavericks",
+"name": "E-com-plat",
+"short_name": "E-com-plat",
 "start_url": "/",
 "display": "standalone",
 "description": "A description for your application",
@@ -40,7 +40,7 @@
 "related_applications": [
     {
         "platform":"windows",
-        "url": "https://mavericks-app.vercel.app"
+        "url": "https://e-com-plat-app.vercel.app"
     }
 ],
 "prefer_related_applications": false,
